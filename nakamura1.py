@@ -2,4 +2,4 @@ import numpy as np
 
 print(np.random.random(10))
 
-print("おはようううう")
+print("tapple")
