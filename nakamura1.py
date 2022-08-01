@@ -7,7 +7,3 @@ print("konbanwa saikou !!!!")
 
 print("rrrrrrrrr")
 
-
-
-
-print("ttttt")
